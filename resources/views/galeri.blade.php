@@ -95,7 +95,7 @@
         <img src="{{ asset($items[0]->foto) }}" class="card-img" alt="{{ $items[0]->nama }}" >
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-info" data-bs-dismiss="modal">Close</button>
       </div>
     </div>
   </div>
@@ -112,7 +112,7 @@
         <img src="{{ asset($items[1]->foto) }}" class="card-img" alt="{{ $items[1]->nama }}" >
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-info" data-bs-dismiss="modal">Close</button>
       </div>
     </div>
   </div>
@@ -129,7 +129,7 @@
         <img src="{{ asset($items[2]->foto) }}" class="card-img" alt="{{ $items[2]->nama }}" >
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-info" data-bs-dismiss="modal">Close</button>
       </div>
     </div>
   </div>
@@ -146,7 +146,7 @@
         <img src="{{ asset($items[3]->foto) }}" class="card-img" alt="{{ $items[3]->nama }}" >
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-info" data-bs-dismiss="modal">Close</button>
       </div>
     </div>
   </div>
@@ -163,7 +163,7 @@
         <img src="{{ asset($items[4]->foto) }}" class="card-img" alt="{{ $items[4]->nama }}" >
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-info" data-bs-dismiss="modal">Close</button>
       </div>
     </div>
   </div>
@@ -180,7 +180,7 @@
         <img src="{{ asset($items[5]->foto) }}" class="card-img" alt="{{ $items[5]->nama }}" >
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-info" data-bs-dismiss="modal">Close</button>
       </div>
     </div>
   </div>
@@ -197,7 +197,7 @@
         <img src="{{ asset($items[6]->foto) }}" class="card-img" alt="{{ $items[6]->nama }}" >
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-info" data-bs-dismiss="modal">Close</button>
       </div>
     </div>
   </div>
@@ -214,7 +214,7 @@
         <img src="{{ asset($items[7]->foto) }}" class="card-img" alt="{{ $items[7]->nama }}" >
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-info" data-bs-dismiss="modal">Close</button>
       </div>
     </div>
   </div>

@@ -1,6 +1,5 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container">
-    <a class="navbar-brand" href="#">Logo</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
       aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -34,6 +33,7 @@
           <a class="nav-link" href="{{ route('kontak.index') }}">Kontak</a>
         </li>
       </ul>
+      <a href="index.html" class="logo"><img src="assets/img/smkbisa.png" alt="" class="img-fluid"></a>
     </div>
   </div>
 </nav>

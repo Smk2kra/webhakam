@@ -54,7 +54,7 @@
           <div><a href="http://127.0.0.1:8000/kontak" class="btn-get-started scrollto">SEND MESSAGE</a></div>
         </div>
         <div class="col-lg-6 order-1 order-lg-2 hero-img">
-          <img src="assets/img/smkbisa.png" class="img-fluid" alt="">
+          <img src="assets/img/smkbisa1.png" class="img-fluid" alt="">
         </div>
       </div>
     </div>
@@ -65,7 +65,7 @@
 
    
 
-    <!-- ======= Counts Section ======= -->
+    <!-- ======= Sejarah Sekolah ======= -->
     <section id="counts" class="counts">
       <div class="container">
 
@@ -83,7 +83,7 @@
         </div>
 
       </div>
-    </section><!-- End Counts Section -->
+    </section><!-- End Sejarah Sekolah -->
 
 <!-- ======= Counts Section ======= -->
 <section id="counts" class="counts">
@@ -135,7 +135,7 @@
                 <h3>Drs. Soetanto, M.T</h3>
                 <h4>Kepala Sekolah</h4>
                 <p>
-                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                
                   Bismillahirohmannirrohim
 
 Assalamualaikum Warahmatullah Wabarakatuh
@@ -351,11 +351,7 @@ Kegiatan ini dilakukan secara berkala atau hanya dalam waktu-waktu tertentu dan 
     </div>
   </div>
 
-  <div class="ratio ratio-16x9 mt-4" style="--bs-aspect-ratio: 300px;">
-    <iframe
-      src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15819.549735348359!2d110.9519918!3d-7.5872298!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe9c84052b95a73cb!2sPT.%20Kusuma%20Kreasi%20Utama!5e0!3m2!1sen!2sid!4v1644391270549!5m2!1sen!2sid"
-      width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-  </div>
+
 
     
     <!-- End Contact Section -->
