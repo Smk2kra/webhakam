@@ -49,17 +49,17 @@ class GuruSeeder extends Seeder
         ],[
             'id' => 6,
             'nama' => 'Guru 6',
-            'foto' => 'sample-image/user.png',
+            'foto' => 'sample-image/guru-6.jpg',
             'jabatan' => 'Guru Pelajaran f',
         ],[
             'id' => 7,
             'nama' => 'Guru 7',
-            'foto' => 'sample-image/user.png',
+            'foto' => 'sample-image/guru-7.jpg',
             'jabatan' => 'Guru Pelajaran G',
         ],[
             'id' => 8,
             'nama' => 'Guru 8',
-            'foto' => 'sample-image/user.png',
+            'foto' => 'sample-image/guru-8.jpg',
             'jabatan' => 'Guru Pelajaran H',
         ]];
     }

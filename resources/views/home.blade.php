@@ -1,47 +1,13 @@
 @extends('_layout.default')
 
 @section('content')
-
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta charset="utf-8">
+<title>website sekolah</title>
+<meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>website sekolah</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
-
-  <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
-
-  <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Dosis:300,400,500,,600,700,700i|Lato:300,300i,400,400i,700,700i" rel="stylesheet">
-
-  <!-- Vendor CSS Files -->
-  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
-  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
-
-  <!-- Template Main CSS File -->
-  <link href="assets/css/style.css" rel="stylesheet">
-
-  <!-- =======================================================
-  * Template Name: Butterfly - v4.7.0
-  * Template URL: https://bootstrapmade.com/butterfly-free-bootstrap-theme/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
-</head>
-
-<body>
-
- 
-
+  
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex align-items-center">
 
@@ -68,7 +34,7 @@
     <!-- ======= Sejarah Sekolah ======= -->
     <section id="counts" class="counts">
       <div class="container">
-
+      <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
         <div class="text-center title">
         <img src="assets/img/fotosmkn2.jpg" class="img-fluid" alt="">
           <h3>Sejarah Sekolah</h3>
@@ -112,7 +78,7 @@
             <span data-purecounter-start="0" data-purecounter-end="1024" data-purecounter-duration="1" class="purecounter"></span>
             <p>Mata pelajaran</p>
           </div>
-
+          <script src="assets/vendor/purecounter/purecounter.js"></script>
         </div>
 
       </div>
@@ -148,6 +114,7 @@ Terima kasih sekian yang dapat kami sampaikan, apabila terdapat kekurangan dan k
 Wassalamualaikum Warahmatullahi Wabarakatuh
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
+                  <link href="assets/css/style.css" rel="stylesheet">
               </div>
             </div><!-- End testimonial item -->
 
@@ -343,7 +310,7 @@ Kegiatan ini dilakukan secara berkala atau hanya dalam waktu-waktu tertentu dan 
           <label for="isi-pesan">Isi Pesan</label>
         </div>
         <div class="mb-3">
-          <button type="submit" class="btn btn-primary">Kirim Pesan</button>
+          <button type="submit" class="btn btn-info">Kirim Pesan</button>
         </div>
 
       </div>
@@ -351,29 +318,9 @@ Kegiatan ini dilakukan secara berkala atau hanya dalam waktu-waktu tertentu dan 
     </div>
   </div>
 
-
-
-    
     <!-- End Contact Section -->
 
-  </main><!-- End #main -->
+  
+  
 
-
-
-  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
-
-  <!-- Vendor JS Files -->
-  <script src="assets/vendor/purecounter/purecounter.js"></script>
-  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
-  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
-
-  <!-- Template Main JS File -->
-  <script src="assets/js/main.js"></script>
-
-</body>
-
-</html>
 @endsection

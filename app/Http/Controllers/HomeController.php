@@ -1,7 +1,10 @@
 <?php
 
 namespace App\Http\Controllers;
-
+use App\Models\Home;
+use App\Models\Galeri;
+use App\Models\Guru;
+use App\Models\Berita;
 use Illuminate\Http\Request;
 
 class HomeController extends Controller
@@ -14,6 +17,18 @@ class HomeController extends Controller
      */
     public function __invoke(Request $request)
     {
-        return view('home');
+        $items = Berita::latest()->get();
+        $galeris = Galeri::latest()->get();
+        $gurus = Guru::all()->count();
+        $Homes = Home::all();
+        // dd($Homes);
+        return view('home', [
+            'items' => $items,
+            'galeris'=> $galeris,
+            'Homes' => $Homes,
+            'gurus' => $gurus,
+        
+        ]);  
+        
     }
 }

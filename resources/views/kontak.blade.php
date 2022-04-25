@@ -47,7 +47,7 @@
           <label for="isi-pesan">Isi Pesan</label>
         </div>
         <div class="mb-3">
-          <button type="submit" class="btn btn-primary">Kirim Pesan</button>
+          <button type="submit" class="btn btn-info">Kirim Pesan</button>
         </div>
 
       </div>
