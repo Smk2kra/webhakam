@@ -33,6 +33,7 @@
     <!--    Stylesheets-->
     <!-- ===============================================-->
     <link href="assets/css/theme.css" rel="stylesheet" />
+    <link href="assets/css/style.css" rel="stylesheet">
 
 </head>
 

@@ -114,7 +114,6 @@ Terima kasih sekian yang dapat kami sampaikan, apabila terdapat kekurangan dan k
 Wassalamualaikum Warahmatullahi Wabarakatuh
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
-                  <link href="assets/css/style.css" rel="stylesheet">
               </div>
             </div><!-- End testimonial item -->
 
